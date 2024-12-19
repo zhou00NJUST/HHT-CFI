@@ -7,4 +7,4 @@ We are committed to open science and will release the full implementation of our
 - Training and evaluation scripts
 
 ### 📢 **Code Release Timeline**
-The code and additional resources will be made publicly available upon acceptance of the paper.
+The code and additional resources will be made publicly available once the paper is accepted.
