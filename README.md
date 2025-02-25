@@ -5,3 +5,9 @@ Welcome to the official GitHub repository for our paper: **"Heterogeneous Hyperg
 We are committed to open science and will release the full implementation of our HHT-CFI, including:
 - Model architecture
 - Training and evaluation scripts
+
+```bash
+unzip data.zip
+./train.sh
+./test.sh
+```
